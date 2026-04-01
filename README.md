@@ -1,5 +1,5 @@
-![SVIP](figures/framework.png)
 This is the official code implementation of "Learning Source-free Domain Adaptation for Visible-Infrared Person Re-Identification", accepted by NeurIPS 2025.
+![SVIP](figures/framework.png)
 
 ## Requirements
 - python 3.8.13
